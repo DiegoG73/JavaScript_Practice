@@ -9,8 +9,14 @@
 -Fourth step: Integrate JavaScript with HTML
 
 
-##Exercise 2: Percentages & discounts
+## Exercise 2: Percentages & discounts
 -First step: define formulas
--Second step: Imprement formulas in JavaAcript
+-Second step: Implement formulas in JavaAcript
+-Third step: Create function
+-Fourth step: Integrate JavaScript with HTML
+
+## Exercise 3: Average, Median
+-First step: define formulas
+-Second step: Implement formulas in JavaAcript
 -Third step: Create function
 -Fourth step: Integrate JavaScript with HTML
